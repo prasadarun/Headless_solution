@@ -3,17 +3,16 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.wordpress.test.HomepageTest">
+      <class name="com.wordpress.test.LoginpageTest">
         <methods>
-          <include name="validatecreatepageTest"/>
           <include name="setUp"/>
-          <include name="validatepostTest"/>
-          <include name="validatecommentsTest"/>
-          <include name="validatecustomizeTest"/>
-          <include name="validatefirstenrtyTest"/>
           <include name="tearDown"/>
+          <include name="validateloginTest"/>
+          <include name="validatetitleTest"/>
+          <include name="validateincorrectloginTest2"/>
+          <include name="validateincorrectloginTest1"/>
         </methods>
-      </class> <!-- com.wordpress.test.HomepageTest -->
+      </class> <!-- com.wordpress.test.LoginpageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -244,3 +244,45 @@
 2019-05-25 19:19:11,637 [main] INFO Homepage - The browser is getting launched
 2019-05-25 19:19:11,691 [main] INFO Homepage - The url is getting fetched
 2019-05-25 19:19:11,692 [main] INFO Homepage - The loginpage is opened
+2019-05-25 19:32:15,799 [main] INFO Homepage - The browser is getting launched
+2019-05-25 19:32:15,826 [main] INFO Homepage - The url is getting fetched
+2019-05-25 19:32:15,826 [main] INFO Homepage - The loginpage is opened
+2019-05-25 19:33:12,655 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:33:12,756 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:33:12,756 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:33:13,751 [main] INFO Loginpage - given correct username and incorrect password
+2019-05-25 19:33:24,469 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:33:24,470 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:33:24,470 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:33:25,406 [main] INFO Loginpage - given incorrect username and correct password
+2019-05-25 19:33:32,864 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:33:32,865 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:33:32,865 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:33:38,742 [main] INFO Loginpage - Given correct username and password
+2019-05-25 19:33:47,704 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:33:47,706 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:33:47,706 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:33:47,718 [main] INFO Loginpage - The title of the page isLog In ‹ opensourcecms — WordPress
+2019-05-25 19:52:48,685 [pool-1-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-25 19:52:50,766 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:52:50,799 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:52:50,799 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:52:51,174 [pool-1-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-25 19:52:51,205 [main] INFO Loginpage - given correct username and incorrect password
+2019-05-25 19:52:52,392 [pool-2-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-25 19:52:53,655 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:52:53,664 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:52:53,665 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:52:53,853 [pool-2-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-25 19:52:53,869 [main] INFO Loginpage - given incorrect username and correct password
+2019-05-25 19:52:54,556 [pool-3-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-25 19:52:56,650 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:52:56,658 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:52:56,658 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:52:56,878 [pool-3-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-25 19:52:56,893 [main] INFO Loginpage - Given correct username and password
+2019-05-25 19:52:59,205 [pool-4-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-25 19:53:01,797 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:53:01,805 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:53:01,805 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:53:01,806 [main] INFO Loginpage - The title of the page isLog In ‹ opensourcecms — WordPress
