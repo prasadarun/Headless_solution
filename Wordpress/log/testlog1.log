@@ -196,3 +196,51 @@
 2019-05-25 17:36:29,464 [main] INFO Homepage - The login page is validated with correct username and password
 2019-05-25 17:36:29,566 [main] INFO Homepage - Clicked on the post menu option present in side menu
 2019-05-25 17:36:29,566 [main] INFO Homepage - The sub-optionns in post are getting displayed
+2019-05-25 18:58:17,853 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 18:58:17,881 [main] INFO Loginpage - fetching the website url
+2019-05-25 18:58:17,881 [main] INFO Loginpage - The login page is opened
+2019-05-25 18:58:18,656 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 18:58:18,657 [main] INFO Loginpage - fetching the website url
+2019-05-25 18:58:18,658 [main] INFO Loginpage - The login page is opened
+2019-05-25 18:58:19,357 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 18:58:19,358 [main] INFO Loginpage - fetching the website url
+2019-05-25 18:58:19,359 [main] INFO Loginpage - The login page is opened
+2019-05-25 18:58:20,598 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 18:58:20,598 [main] INFO Loginpage - fetching the website url
+2019-05-25 18:58:20,599 [main] INFO Loginpage - The login page is opened
+2019-05-25 18:58:20,604 [main] INFO Loginpage - The title of the page isLog In ‹ opensourcecms — WordPress
+2019-05-25 19:02:51,868 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:02:52,174 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:02:52,175 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:02:53,230 [main] INFO Loginpage - given correct username and incorrect password
+2019-05-25 19:03:01,497 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:03:01,498 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:03:01,498 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:03:02,195 [main] INFO Loginpage - given incorrect username and correct password
+2019-05-25 19:03:10,738 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:03:10,739 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:03:10,739 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:03:15,117 [main] INFO Loginpage - Given correct username and password
+2019-05-25 19:03:21,731 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:03:21,733 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:03:21,733 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:03:21,748 [main] INFO Loginpage - The title of the page isLog In ‹ opensourcecms — WordPress
+2019-05-25 19:03:52,378 [main] INFO Homepage - The browser is getting launched
+2019-05-25 19:03:52,436 [main] INFO Homepage - The url is getting fetched
+2019-05-25 19:03:52,437 [main] INFO Homepage - The loginpage is opened
+2019-05-25 19:06:57,643 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:06:57,669 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:06:57,669 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:06:58,485 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:06:58,486 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:06:58,486 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:06:59,144 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:06:59,148 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:06:59,148 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:07:04,302 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:07:04,303 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:07:04,303 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:07:04,308 [main] INFO Loginpage - The title of the page isLog In ‹ opensourcecms — WordPress
+2019-05-25 19:19:11,637 [main] INFO Homepage - The browser is getting launched
+2019-05-25 19:19:11,691 [main] INFO Homepage - The url is getting fetched
+2019-05-25 19:19:11,692 [main] INFO Homepage - The loginpage is opened
